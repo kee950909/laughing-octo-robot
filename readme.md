@@ -29,9 +29,9 @@ THEN a password is generated that matches the selected criteria
 WHEN the password is generated
 THEN the password is either displayed in an alert or written to the page
 
-Deployed link: 
+Deployed link: https://kee950909.github.io/laughing-octo-robot/
 
-Landing page 
+Public Repo: https://github.com/kee950909/lauighing-octo-robot/
 
 Screenshot:
 
