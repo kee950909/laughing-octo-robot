@@ -33,7 +33,9 @@ Deployed link:
 
 Landing page 
 
-![Image](assets/landingpage.png)
+Screenshot:
+
+<img width="1436" alt="Screenshot 2023-09-14 at 8 04 59 AM" src="https://github.com/kee950909/laughing-octo-robot/assets/142914123/9197d8c5-05a5-41b5-b823-62c172637485">
 
 ## Technologies
 
